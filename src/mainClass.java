@@ -7,7 +7,7 @@ public class mainClass {
      * @return sum of arguments
      */
     static int policz(int a, int b) {
-        return a + b;
+        return a * b;
     }
 
     /**
